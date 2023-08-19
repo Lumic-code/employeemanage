@@ -1,0 +1,12 @@
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\bin\Debug\net6.0\EmploymentManagement.Core.deps.json
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\bin\Debug\net6.0\EmploymentManagement.Core.dll
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\bin\Debug\net6.0\EmploymentManagement.Core.pdb
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\obj\Debug\net6.0\EmploymentManagement.Core.csproj.AssemblyReference.cache
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\obj\Debug\net6.0\EmploymentManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\obj\Debug\net6.0\EmploymentManagement.Core.AssemblyInfoInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\obj\Debug\net6.0\EmploymentManagement.Core.AssemblyInfo.cs
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\obj\Debug\net6.0\EmploymentManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\obj\Debug\net6.0\EmploymentManagement.Core.dll
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\obj\Debug\net6.0\refint\EmploymentManagement.Core.dll
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\obj\Debug\net6.0\EmploymentManagement.Core.pdb
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmploymentManagement.Core\obj\Debug\net6.0\ref\EmploymentManagement.Core.dll

@@ -1,0 +1,15 @@
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\bin\Debug\net6.0\EmployeeManagement.Infra.deps.json
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\bin\Debug\net6.0\EmployeeManagement.Infra.dll
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\bin\Debug\net6.0\EmployeeManagement.Infra.pdb
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\bin\Debug\net6.0\EmploymentManagement.Core.dll
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\bin\Debug\net6.0\EmploymentManagement.Core.pdb
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\EmployeeManagement.Infra.csproj.AssemblyReference.cache
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\EmployeeManagement.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\EmployeeManagement.Infra.AssemblyInfoInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\EmployeeManagement.Infra.AssemblyInfo.cs
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\EmployeeManagement.Infra.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\EmployeeManagement.Infra.csproj.CopyComplete
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\EmployeeManagement.Infra.dll
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\refint\EmployeeManagement.Infra.dll
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\EmployeeManagement.Infra.pdb
+C:\Users\wisdo\OneDrive\Desktop\EmployeeManagement\EmployeeManagement.Infra\obj\Debug\net6.0\ref\EmployeeManagement.Infra.dll
